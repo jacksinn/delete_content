@@ -1,0 +1,6 @@
+name = Delete Content
+description = Bulk Delete Content and Users based on Content Types, Roles, NID/UID Ranges.
+package = Administration
+core = 7.x
+php = 5.3
+
